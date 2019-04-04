@@ -1,6 +1,7 @@
 #!/bin/bash
 u="sree"
 p="sree"
+echo "welcome to shell"
 echo "enter username:"
 read a
 echo "enter password:"
