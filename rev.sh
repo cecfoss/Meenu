@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "program to reverse"
 echo "Enter a Number:"
 read a
 rev=0
